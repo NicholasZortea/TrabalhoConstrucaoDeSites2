@@ -1,0 +1,21 @@
+li{
+    font-size: 16px;
+}
+
+li > p {
+    margin: 0;
+    height: 35px;
+    vertical-align: middle;
+    display: table;
+    line-height: 50px;
+}
+
+
+
+li:nth-child(odd){
+    background-color: #c0c0c0;
+}
+
+.retorne{
+    margin-left: 10px;
+}
